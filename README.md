@@ -1,6 +1,6 @@
 # text-mining-amtspresse-preussen
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martindroege/text-mining-amtspresse-preussen/master)
 
 Das Repository enthält Noteboobs und Daten zum Seminar 'Text Mining in
 historischen Zeitungen', Sommersemester 2020, an der Universität Paderborn.
